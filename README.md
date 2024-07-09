@@ -1,5 +1,5 @@
 # Responsive Portfolio Website Nicole
-##Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+## Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 
 - Contains several pages (About, Work & Contact)
 - Includes a dark & light theme.
